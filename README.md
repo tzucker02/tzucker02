@@ -54,7 +54,11 @@ This is a link to sections in this readme:
 | [Center For Jewish History Dashboard ver b](https://public.tableau.com/app/profile/thomaszuckerscharff/viz/CJHv1_8/CJHv1_3) | 2024-11 | Tableau Desktop, Tableau Public | Dashboard of visitor information for CJH |
 | [Larchmont Temple Brotherhood Breakfasts dashboard ver a](https://public.tableau.com/app/profile/thomaszuckerscharff/viz/LTBBreakfasts/Dashboard2) | 2024-11 | Tableau Desktop, Tableau Public | Dashboard of membership |
 | [AirBnB searchable listing](https://public.tableau.com/app/profile/thomaszuckerscharff/viz/AirBnBlistingNYC/AirBnBlistingsandMap) | 2024-05 | Tableau Desktop, Tableau Public | Dashboard displaying NYC searchable lists |
+| [Renovations listing](https://public.tableau.com/app/profile/thomaszuckerscharff/viz/Renovations_17175092557320/Main) | 2024-06 | Tableau Desktop, Tableau Public | Cost of renovations dashboard |
 # Python Cheatsheets
 | Project Link | Completion Date | Tools | Project Description |
 |---|---|---|---|
+| [Beginners Python Cheatsheet](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/Python/Cheatsheets/Beginners-Python-Cheat-Sheet.pdf) | 2025-02 | PDF |  |
+| [Importing Data Python Cheatsheet](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/Python/Cheatsheets/Importing_Data_Python_Cheat_Sheet.pdf) | 2025-02 |PDF |  |
+
 # Coding Homeworks
