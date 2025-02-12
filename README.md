@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 This is a link to sections in this readme:
 ## Table of Contents
-- [ Tom's Technical Writing](#toms-tech-writing)
+- [ Toms Technical Writing](#toms-technical-writing)
 - [ Full text of readings for Online Masters in Data Science at Boston University(OMDS)](#bu-full-text)
 - [ Power BI](#powerbi)
 - [ Tableau](#tableau)
