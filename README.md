@@ -50,6 +50,10 @@ This is a link to sections in this readme:
 # Tableau
 | Project Link | Completion Date | Tools | Project Description |
 |---|---|---|---|
+| [Center for Jewish History Dashboard ver a](https://public.tableau.com/app/profile/thomaszuckerscharff/viz/CJHv2_3/CJHv1_9) | 2024-12 | Tableau Desktop, Tableau Public | Dashboard of visitor information for CJH |
+| [Center For Jewish History Dashboard ver b](https://public.tableau.com/app/profile/thomaszuckerscharff/viz/CJHv1_8/CJHv1_3) | 2024-11 | Tableau Desktop, Tableau Public | Dashboard of visitor information for CJH |
+| [Larchmont Temple Brotherhood Breakfasts dashboard ver a](https://public.tableau.com/app/profile/thomaszuckerscharff/viz/LTBBreakfasts/Dashboard2) | 2024-11 | Tableau Desktop, Tableau Public | Dashboard of membership |
+| [AirBnB searchable listing](https://public.tableau.com/app/profile/thomaszuckerscharff/viz/AirBnBlistingNYC/AirBnBlistingsandMap) | 2024-05 | Tableau Desktop, Tableau Public | Dashboard displaying NYC searchable lists |
 # Python Cheatsheets
 | Project Link | Completion Date | Tools | Project Description |
 |---|---|---|---|
