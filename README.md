@@ -22,14 +22,35 @@ This is a link to sections in this readme:
 - [ Python Cheatsheets](#python-cheatsheets)
 
 
-# Tom Technical Writing
+# Tom's Technical Writing
 
+| Project Link |   Completion Date   | Tools | Project Description |
+|---|------------------|---|---|
+|   | 2023 - 01   | Word, EndNote, Excel | Wrote technical document describing the various aspects, problems and solutions when using EndNotento to create references in a grant application|
+|   | 2023 - 02   | Slidedog, Powerpoint, Dropbox, Drive, A/V miscellaneous | Set up, implemented and brought to fruition presentation to NCI site visit committee|
+# Full text of OMDS readings
 | Project Link | Completion Date | Tools | Project Description |
 |---|---|---|---|
-|   | 2023 - 01 - 16 | Word, EndNote, Excel | Wrote technical document describing the various aspects, problems and solutions when using EndNotento to create references in a grant application|
-|   | 2023 - 02 - 12 | Slidedog, Powerpoint, Dropbox, Drive, A/V miscellaneous | Set up, implemented and brought to fruition presentation to NCI site visit committee|
-# Full text of OMDS readings
+| [Whirlwind Tour of Python](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/Full%20Texts/A%20Whirlwind%20Tour%20of%20Python.pdf) | 2025-02 | PDF | A Whirlwind Tour Of Python |
+| [Python Tutorial](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/Full%20Texts/Python%203.13.1%20tutorial.pdf) | 2025-02 | PDF | Python 3.13.1 Tutorial |  
+| [Data Science for Business](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/Full%20Texts/data%20science%20for%20business.pdf) | 2025-02 | PDF | Text for Data Science |
+| [Elementary Statistics](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/Full%20Texts/elementary%20statistics.pdf) | 2025-02 | PDF | Statistics text |
+| [Applied Linear Algebra](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/Full%20Texts/introduction%20to%20applied%20linear%20algebra.pdf) |  2025-02 | PDF | Linear Algebra text |
+| [Mathematics and Machine Learning](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/Full%20Texts/mathematics%20for%20machine%20learning.pdf) | 2025-02 | PDF |   |
+| [Patterns, Predictions, and Actions](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/Full%20Texts/patterns%20predictions%20and%20actions.pdf) |2025-02 | PDF |  |
+
+# Other Readings
+| Project Link | Completion Date | Tools | Project Description |
+|---|---|---|---|
+| [MatPlotLib](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/other%20readings/Annotate%20plots%20%E2%80%94%20Matplotlib%203.10.0%20documentation%20-%20matplotlib.org.pdf) | 2025-02 | PDF |   |
+
 # PowerBI
+| Project Link | Completion Date | Tools | Project Description |
+|---|---|---|---|
 # Tableau
+| Project Link | Completion Date | Tools | Project Description |
+|---|---|---|---|
 # Python Cheatsheets
+| Project Link | Completion Date | Tools | Project Description |
+|---|---|---|---|
 # Coding Homeworks
