@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 This is a link to sections in this readme:
 ## Table of Contents
 - [ Toms Technical Writing](#toms-technical-writing)
-- [ Full text of readings for Online Masters in Data Science at Boston University(OMDS)](#full-text-of-OMDS-readings)
+- [ Full text of readings for Online Masters in Data Science at Boston University(OMDS)](#full-text-of-readings-for-online-masters-in-data-science-at-boston-university-(OMDS))
 - [ Power BI](#powerbi)
 - [ Tableau](#tableau)
 - [ Python Cheatsheets](#python-cheatsheets)
