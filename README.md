@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 This is a link to sections in this readme:
 ## Table of Contents
 - [ Toms Technical Writing](#toms-technical-writing)
-- [ Full text of readings for Online Masters in Data Science at Boston University(OMDS)](#full-text-of-readings-for-online-masters-in-data-science-at-boston-university-(OMDS))
+- [ Full text of readings for Online Masters in Data Science at Boston University(OMDS)](#full-text-of-readings-for-the-online-masters-in-data-science-at-boston-university-OMDS)
 - [ Power BI](#powerbi)
 - [ Tableau](#tableau)
 - [ Python Cheatsheets](#python-cheatsheets)
@@ -28,7 +28,7 @@ This is a link to sections in this readme:
 |---|------------------|---|---|
 |   | 2023 - 01   | Word, EndNote, Excel | Wrote technical document describing the various aspects, problems and solutions when using EndNotento to create references in a grant application|
 |   | 2023 - 02   | Slidedog, Powerpoint, Dropbox, Drive, A/V miscellaneous | Set up, implemented and brought to fruition presentation to NCI site visit committee|
-# Full text of readings for the Online Masters at Boston University(OMDS)
+# Full text of readings for the Online Masters at Boston University-OMDS
 | Project Link | Completion Date | Tools | Project Description |
 |---|---|---|---|
 | [Whirlwind Tour of Python](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/Full%20Texts/A%20Whirlwind%20Tour%20of%20Python.pdf) | 2025-02 | PDF | A Whirlwind Tour Of Python |
