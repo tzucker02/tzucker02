@@ -38,10 +38,15 @@
 | Project Link | Completion Date | Tools | Project Description |
 |---|---|---|---|
 | [MatPlotLib](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/other%20readings/Annotate%20plots%20%E2%80%94%20Matplotlib%203.10.0%20documentation%20-%20matplotlib.org.pdf) | 2025-02 | PDF |   |
+| []() | 2025-02 | PDF |  |
+| []() | 2025-02 | PDF |  |
+| []() | 2025-02 | PDF |  |
+| []() | 2025-02 | PDF |  |
 
 # PowerBI
 | Project Link | Completion Date | Tools | Project Description |
 |---|---|---|---|
+| []() | 2025-02 | PDF |  |
 # Tableau
 | Project Link | Completion Date | Tools | Project Description |
 |---|---|---|---|
@@ -55,5 +60,11 @@
 |---|---|---|---|
 | [Beginners Python Cheatsheet](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/Python/Cheatsheets/Beginners-Python-Cheat-Sheet.pdf) | 2025-02 | PDF |  |
 | [Importing Data Python Cheatsheet](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/Python/Cheatsheets/Importing_Data_Python_Cheat_Sheet.pdf) | 2025-02 |PDF |  |
+| [Numpy Cheeatsheet](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/Python/Cheatsheets/Numpy_Cheat_Sheet.pdf) | 2025-02 | PDF |  |
+| []() | 2025-02 | PDF |  |
+| []() | 2025-02 | PDF |  |
+| []() | 2025-02 | PDF |  |
+| []() | 2025-02 | PDF |  |
+| []() | 2025-02 | PDF |  |
 
 # Coding Homeworks
