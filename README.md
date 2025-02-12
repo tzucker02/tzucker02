@@ -12,3 +12,24 @@
 tzucker02/tzucker02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+This is a link to sections in this readme:
+## Table of Contents
+- [ Tom's Technical Writing](#toms-tech-writing)
+- [ Full text of readings for Online Masters in Data Science at Boston University(OMDS)](#bu-full-text)
+- [ Power BI](#powerbi)
+- [ Tableau](#tableau)
+- [ Python Cheatsheets](#python-cheatsheets)
+
+
+# Tom Technical Writing
+
+| Project Link | Completion Date | Tools | Project Description |
+|---|---|---|---|
+|   | 2023 - 01 - 16 | Word, EndNote, Excel | Wrote technical document describing the various aspects, problems and solutions when using EndNotento to create references in a grant application|
+|   | 2023 - 02 - 12 | Slidedog, Powerpoint, Dropbox, Drive, A/V miscellaneous | Set up, implemented and brought to fruition presentation to NCI site visit committee|
+# Full text of OMDS readings
+# PowerBI
+# Tableau
+# Python Cheatsheets
+# Coding Homeworks
