@@ -43,8 +43,9 @@ These are only a few of the Social Media networks I can be found on:
 |   | 2023 - 02   | Slidedog, Powerpoint, Dropbox, Drive, A/V miscellaneous | Set up, implemented and brought to fruition presentation to NCI site visit committee|
 
 # Full text of OMDS Readings
-| File/Book Link | Upload Date | Tools | Description |
+| File/Book Link | Upload Date | Type | Description |
 |---|---|---|---|
+| [Copyrighted texts linked in the readme.md file](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/Full%20Texts/readme.md) | 2025-02 | Readme.md file | readme file for directory of full texts. Contains copyright information |
 | [Whirlwind Tour of Python](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/Full%20Texts/A%20Whirlwind%20Tour%20of%20Python.pdf) | 2025-02 | PDF | A Whirlwind Tour Of Python |
 | [Python Tutorial](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/Full%20Texts/Python%203.13.1%20tutorial.pdf) | 2025-02 | PDF | Python 3.13.1 Tutorial |  
 | [Data Science for Business](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/Full%20Texts/data%20science%20for%20business.pdf) | 2025-02 | PDF | Text for Data Science |
@@ -54,7 +55,7 @@ These are only a few of the Social Media networks I can be found on:
 | [Patterns, Predictions, and Actions](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/Full%20Texts/patterns%20predictions%20and%20actions.pdf) |2025-02 | PDF |  |
 
 # Other Readings
-| File Link | Upload Date | Tools | File Description |
+| File Link | Upload Date | Type | File Description |
 |---|---|---|---|
 | [MatPlotLib](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/other%20readings/Annotate%20plots%20%E2%80%94%20Matplotlib%203.10.0%20documentation%20-%20matplotlib.org.pdf) | 2025-02 | PDF |   |
 | [hist(x) documentation from Matplotlib](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/other%20readings/hist(x)%20%E2%80%94%20Matplotlib%203.10.0%20documentation%20-%20matplotlib.org%20-%20dx601%20-%20week%202.pdf) | 2025-02 | PDF |  |
@@ -66,6 +67,7 @@ These are only a few of the Social Media networks I can be found on:
 | Dashboard Link | Completion Date | Tools | Project Description |
 |---|---|---|---|
 | []() | 2025-02 | PDF |  |
+
 # Tableau
 | Dashboard Link | Completion Date | Tools | Project Description |
 |---|---| ----------- | --------------------------- |
@@ -76,7 +78,7 @@ These are only a few of the Social Media networks I can be found on:
 | [Renovations listing](https://public.tableau.com/app/profile/thomaszuckerscharff/viz/Renovations_17175092557320/Main) | 2024-06 | Tableau Desktop, Tableau Public | Cost of renovations dashboard |
 
 # Python Cheatsheets
-| File Link | Upload Date | Tools | Description |
+| File Link | Upload Date | Type | Description |
 |---|---|---|---|
 | [Beginners Python Cheatsheet](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/Python/Cheatsheets/Beginners-Python-Cheat-Sheet.pdf) | 2025-02 | PDF |  |
 | [Importing Data Python Cheatsheet](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/Python/Cheatsheets/Importing_Data_Python_Cheat_Sheet.pdf) | 2025-02 |PDF |  |
@@ -93,10 +95,10 @@ These are only a few of the Social Media networks I can be found on:
 | [Python Cheatsheet for Data Science](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/Python/Cheatsheets/python-cheatsheet%20-%20DS.pdf) | 2025-02 | PDF |  |
 
 # Coding Homeworks
-| Repository Link | Completion Date | Tools | Description |
-|---|---|---|---|
-| []() | 2025-02 | PDF |  |
-| []() | 2025-02 | PDF |  |
-| []() | 2025-02 | PDF |  |
-| []() | 2025-02 | PDF |  |
-| []() | 2025-02 | PDF |  |
+| Repository Link | Completion Date | Type | Description |
+|----|---|---|---|
+| [DX601 Week1](https://github.com/bu-cds-dx601-2025-spring/dx601-homework-01-tzucker02) | 2025-02 | Repository |  |
+| [DX601 Week2]() | 2025-02 | repo |  |
+| [DX602 Week1]() | 2025-02 | repo |  |
+| [DX602 Week2]() | 2025-02 | repo |  |
+| [DX602 Week3]() | 2025-02 | repo |  |
