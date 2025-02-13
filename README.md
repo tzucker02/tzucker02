@@ -62,14 +62,16 @@
 | [Beginners Python Cheatsheet](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/Python/Cheatsheets/Beginners-Python-Cheat-Sheet.pdf) | 2025-02 | PDF |  |
 | [Importing Data Python Cheatsheet](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/Python/Cheatsheets/Importing_Data_Python_Cheat_Sheet.pdf) | 2025-02 |PDF |  |
 | [Numpy Cheeatsheet](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/Python/Cheatsheets/Numpy_Cheat_Sheet.pdf) | 2025-02 | PDF |  |
-| [Beginners Python Cheatsheet](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/Python/Cheatsheets/Beginners-Python-Cheat-Sheet.pdf) | 2025-02 | PDF |  |
-| []() | 2025-02 | PDF |  |
-| []() | 2025-02 | PDF |  |
-| []() | 2025-02 | PDF |  |
-| []() | 2025-02 | PDF |  |
-| []() | 2025-02 | PDF |  |
-| []() | 2025-02 | PDF |  |
-| []() | 2025-02 | PDF |  |
+| [Numpy Python Cheatsheet](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/Python/Cheatsheets/Numpy_Python_Cheat_Sheet.pdf) | 2025-02 | PDF |  |
+| [Pandas Cheatsheet](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/Python/Cheatsheets/Pandas_Cheat_Sheet.pdf) | 2025-02 | PDF |  |
+| [Python Basics Updated Cheatsheet](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/Python/Cheatsheets/Python_Basics_Cheat_Sheet-updated.pdf) | 2025-02 | PDF |  |
+| [Python MatPlotLib Cheatsheet](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/Python/Cheatsheets/Python_Matplotlib_Cheat_Sheet.pdf) | 2025-02 | PDF |  |
+| [Python SciPy Cheatsheet - Linear Algebra](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/Python/Cheatsheets/Python_SciPy_Cheat_Sheet_Linear_Algebra.pdf) | 2025-02 | PDF |  |
+| [SciPy Cheatsheet](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/Python/Cheatsheets/SciPy_Cheat_Sheet.pdf) | 2025-02 | PDF |  |
+| [Scikit Learn Cheatsheet](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/Python/Cheatsheets/Scikit-Learn_Cheat_Sheet.pdf) | 2025-02 | PDF |  |
+| [Scikit Learn Cheatsheet - Python](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/Python/Cheatsheets/Scikit_Learn_Cheat_Sheet_Python.pdf) | 2025-02 | PDF |  |
+| [Python Cheatsheets](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/Python/Cheatsheets/python-cheat-sheets.pdf) | 2025-02 | PDF |  |
+| [Python Cheatsheet for Data Science](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/Python/Cheatsheets/python-cheatsheet%20-%20DS.pdf) | 2025-02 | PDF |  |
 
 # Coding Homeworks
 | Repository Link | Completion Date | Tools | Description |
