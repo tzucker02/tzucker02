@@ -7,6 +7,19 @@
 - 😄 Pronouns: He, Him, His
 - ⚡ Fun fact: I worked for over 30 years at what is now a comprehensive cancer center designated by the National Cancer Center of the NIH.  I was there as the computer guy and enjoyed almost every day of it.  My last few years there were involved heavily in doing data visualization using Power BI.  I now hold a Microsoft certification in Data Analysis in PowerBI.  I have also found that the data visualization software Tableau is extremely powerful and very useful.
 
+## Projects
+
+Check out my portfolio where you can see different repos and projects
+
+## Tools
+
+- Programming: Python, Git, Visual Studio Code, VBA
+- Data Visualization: Power BI, Tableau
+- Learning:
+- Reference Managers:
+- Operating Systems:
+
+## Connect with me
 
 ## Table of Contents
 - [ Toms Technical Writing](#toms-technical-writing)
