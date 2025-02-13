@@ -13,13 +13,18 @@ Check out my portfolio where you can see different repos and projects
 
 ## Tools
 
+<!--  - Websites: [Resume]() , [Personal]() -->
 - Programming: Python, Git, Visual Studio Code, VBA
-- Data Visualization: Power BI, Tableau
-- Learning:
-- Reference Managers:
-- Operating Systems:
+- Data Visualization: Power BI, [Tableau](https://public.tableau.com/app/profile/thomaszuckerscharff/vizzes)
+- Learning: Boston University, Northeastern University, LinkedIn
+- Reference Managers: [EndNote](https://www.endnote.com) , [Zotero](https://www.zotero.org/tcszucker/library), Mendeley, F1000
+- Operating Systems: Windows, MACOS, Linux, iOS, Android
 
 ## Connect with me
+These are only a few of the Social Media networks I can be found on:
+- [LinkedIn](https://www.linkedin.com/in/thomaszuckerscharff)
+- [BlueSky](https://bsky.app/profile/tomzs.bsky.social)
+- [Facebook](https://www.facebook.com/tzuckerscharff)
 
 ## Table of Contents
 - [ Toms Technical Writing](#toms-technical-writing)
