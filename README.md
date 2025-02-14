@@ -3,7 +3,7 @@
 
 Check out my [portfolio](https://github.com/tzucker02/Projects/blob/main/README.md) where you can see different repos and projects
 
-## Tools
+## Some Tools
 
 <!--  - Websites: [Resume]() , [Personal]() -->
 - **Programming**: *Python* , Git, Visual Studio Code, VBA
