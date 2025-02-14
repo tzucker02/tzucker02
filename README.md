@@ -1,4 +1,4 @@
-![photo-1453928582365-b6ad33cbcf64](https://github.com/user-attachments/assets/a648a9bd-29b5-4c12-851d-20cee1eeb26f)
+![photo-1453928582365-b6ad33cbcf64](https://github.com/user-attachments/assets/e08da0b8-2d7f-4ab1-9720-d56df2152932)
 
 ## Projects
 
