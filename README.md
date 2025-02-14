@@ -1,4 +1,5 @@
-![2018-04-11_P1020255](https://github.com/user-attachments/assets/fdfc3b4a-24c2-48b4-83cf-a821b8e8ba9e)
+![image](https://github.com/user-attachments/assets/2587f172-debd-4248-a7f6-899b78a045e8)
+
 
 ## Projects
 
