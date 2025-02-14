@@ -12,7 +12,7 @@ Check out my [portfolio](https://github.com/tzucker02/Projects/blob/main/README.
 - **Operating Systems**: Windows, MACOS, Linux, iOS, Android
 
 ## Connect with me
-These are only a few of the Social Media networks I can be found on:
+These are a few of the Social Media networks I can be found on:
 - [LinkedIn](https://www.linkedin.com/in/thomaszuckerscharff)
 - [BlueSky](https://bsky.app/profile/tomzs.bsky.social)
 - [Facebook](https://www.facebook.com/tzuckerscharff)
