@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/2587f172-debd-4248-a7f6-899b78a045e8)
-
+![photo-1453928582365-b6ad33cbcf64](https://github.com/user-attachments/assets/a648a9bd-29b5-4c12-851d-20cee1eeb26f)
 
 ## Projects
 
