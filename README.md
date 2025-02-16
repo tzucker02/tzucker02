@@ -1,4 +1,4 @@
-<img src="https://content.instructables.com/FRE/W8Y6/JG74VI5O/FREW8Y6JG74VI5O.png?auto=webp&frame=1&md=MjAxOC0wNC0yMCAwOTo0MToxOS4w" height="20" width="20"></a>Introducing myself!
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGlQXWqbQZJOfxE7MtMvIs9--VPgCp-dHPGA&s" height="20" width="20"></a>Introducing myself!
 ![photo-1453928582365-b6ad33cbcf64](https://github.com/user-attachments/assets/e08da0b8-2d7f-4ab1-9720-d56df2152932)
 
 Hi! I'm Tom.  I am a data analyst with a background in data visualization, technical writing, computer hardware, and software.  Welcome to my GitHub page!
