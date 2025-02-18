@@ -11,7 +11,7 @@ Hi! I'm Tom.  I am a data analyst with a background in data visualization, techn
 
 ## Projects
 
-Check out my [portfolio](https://github.com/tzucker02/Projects/blob/main/README.md) where you can see different repos and projects
+Check out my [portfolio](https://github.com/tzucker02/Projects/blob/main/README.md) where you can see different repos and projects (or if you are looking for some cheatsheets for Python)
 
 ## Some Tools
 
