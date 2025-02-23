@@ -13,7 +13,7 @@ Hi! I'm Tom.  I am a data analyst with a background in data visualization, techn
 
 ## Projects
 
-Check out my [portfolio and resources page](https://github.com/tzucker02/Projects/blob/main/README.md) where you can see different repos and projects (if you are looking for some [cheatsheets for Python]((https://github.com/tzucker02/Projects/blob/main/Python%20Cheatsheets.md), or [datasets](https://github.com/tzucker02/Projects/blob/main/Dataset_Sources.md) try those links instead.)
+Check out my [portfolio and resources page](https://github.com/tzucker02/Projects/blob/main/README.md) where you can see different repos and projects (if you are looking for some [cheatsheets for Python](https://github.com/tzucker02/Projects/blob/main/Python%20Cheatsheets.md), or [datasets](https://github.com/tzucker02/Projects/blob/main/Dataset_Sources.md) try those links instead.)
 
 ## Some Tools
 
