@@ -2,7 +2,7 @@
 ![photo-1453928582365-b6ad33cbcf64](https://github.com/user-attachments/assets/e08da0b8-2d7f-4ab1-9720-d56df2152932)
 
 ### <img src="https://cdn.iconscout.com/icon/free/png-256/free-switch-position-icon-download-in-svg-png-gif-file-formats--users-turnover-employee-replace-tiny-pack-user-interface-icons-3381102.png" height="30" width="30"></a> I follow back!  
-(if my # of followers doesn't match my # of followed, it just means I haven't checked it yet today)
+(if my # of followers doesn't match my # of following, it just means I haven't checked it yet today)
 
 Hi! I'm Tom.  I am a data analyst with a background in data visualization, technical writing, computer hardware, and software.  Welcome to my GitHub page!
 
