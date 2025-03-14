@@ -30,6 +30,7 @@ These are a few of the Social Media networks I can be found on:
 - [BlueSky](https://bsky.app/profile/tomzs.bsky.social)
 - [Facebook](https://www.facebook.com/tzuckerscharff)
 
+<!--
 ### Hi there 👋
 
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
@@ -62,6 +63,7 @@ Find out more about me & feel free to connect with me here:
 
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=LevelUpInTech%2FLevelUpInTech&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=LevelUpInTech%2FLevelUpInTech)
+-->
 
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. -->
