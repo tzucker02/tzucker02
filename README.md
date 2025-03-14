@@ -29,3 +29,11 @@ These are a few of the Social Media networks I can be found on:
 - [LinkedIn](https://www.linkedin.com/in/thomaszuckerscharff)
 - [BlueSky](https://bsky.app/profile/tomzs.bsky.social)
 - [Facebook](https://www.facebook.com/tzuckerscharff)
+
+<!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. -->
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=tzucker02&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tzucker02&hide=TeX&layout=compact)
+
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=tzucker02%2Ftzucker02&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=tzucker02%2Ftzucker02)
