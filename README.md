@@ -3,7 +3,9 @@
 
 ### <img src="https://cdn.iconscout.com/icon/free/png-256/free-switch-position-icon-download-in-svg-png-gif-file-formats--users-turnover-employee-replace-tiny-pack-user-interface-icons-3381102.png" height="30" width="30"></a> I follow back!  
 (if my # of followers doesn't match my # of following, it just means I haven't checked it yet today)
-
+# 1
+## 2
+### 3
 Hi! I'm Tom.  I am a data analyst with a background in data visualization, technical writing, computer hardware, and software.  Welcome to my GitHub page!
 
 - data analysis
