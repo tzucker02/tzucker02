@@ -20,7 +20,7 @@ Check out my [portfolio and resources page](https://github.com/tzucker02/Project
 
 <!--  - Websites: [Resume]() , [Personal]() -->
 - **Programming**: *Python* , Git, Visual Studio Code, VBA
-- **Data Visualizatio**n: Power BI, [Tableau](https://public.tableau.com/app/profile/thomaszuckerscharff/vizzes)
+- **Data Visualization**: Power BI, [Tableau](https://public.tableau.com/app/profile/thomaszuckerscharff/vizzes)
 - **Reference Managers**: [EndNote](https://www.endnote.com) , [Zotero](https://www.zotero.org/tcszucker/library), Mendeley, F1000
 - **Operating Systems**: Windows, MACOS, Linux, iOS, Android
 
