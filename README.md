@@ -39,3 +39,5 @@ These are a few of the Social Media networks I can be found on:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tzucker02&hide=TeX&layout=compact)
 
 [![Visitors](https://api.visitorbadge.io/api/daily?path=tzucker02&label=TOTAL%20VISITORS&countColor=%23555555&labelStyle=upper)](https://visitorbadge.io/status?path=tzucker02)
+
+
