@@ -42,7 +42,7 @@ These are a few of the Social Media networks I can be found on:
 
 ![Static Badge](https://img.shields.io/badge/Thomas%20ZuckerScharff-blue?style=plastic&logo=facebook&logoColor=white&logoSize=auto&labelColor=Blue&color=blue&link=https%3A%2F%2Fwww.facebook.com%2Ftzuckerscharff)
 ![Static Badge](https://img.shields.io/badge/Thomas%20ZuckerScharff-Black?style=plastic&logo=discord&logoColor=white&logoSize=auto&labelColor=black&color=black&link=https%3A%2F%2Fwww.discord.com%2Fchannels%2Ftomzuckerscharff_98477)
-![Linkedin Badge](https://img.shields.io/badge/-IN_Thomas%20ZuckerScharff-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thomaszuckerscharff/)
+![Static Badge](https://img.shields.io/badge/IN_Thomas%20ZuckerScharff-blue?style=plastic&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fthomaszuckerscharff)
 ![Static Badge](https://img.shields.io/badge/Thomas%20ZuckerScharff-blue?style=plastic&logo=bluesky&logoColor=white&logoSize=auto&cacheSeconds=https%3A%2F%2Fbsky.app%2Fprofile%2Fnewyorkmyc-tzs.bsky.social)
 ![Static Badge](https://img.shields.io/badge/Thomas%20ZuckerScharff-brown?style=plastic&logo=amazon&logoColor=white&labelColor=black&link=https%3A%2F%2Famazon.com)
 ![Static Badge](https://img.shields.io/badge/Thomas%20ZuckerScharff-purple?style=plastic&logo=udemy&logoColor=white&link=https%3A%2F%2Fwww.udemy.com%2Fuser%2Fthomas-zucker-scharff%2F)
