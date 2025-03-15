@@ -45,4 +45,5 @@ These are a few of the Social Media networks I can be found on:
 ![Static Badge](https://img.shields.io/badge/Thomas%20ZuckerScharff-grey?style=plastic&logo=x&logoColor=white&logoSize=auto&cacheSeconds=https%3A%2F%2Ftwitter.com%2Fcyberdad)
 ![Linkedin Badge](https://img.shields.io/badge/-IN_Thomas%20ZuckerScharff-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thomaszuckerscharff/)
 ![Static Badge](https://img.shields.io/badge/Thomas%20ZuckerScharff-blue?style=plastic&logo=bluesky&logoColor=white&logoSize=auto&cacheSeconds=https%3A%2F%2Fbsky.app%2Fprofile%2Fnewyorkmyc-tzs.bsky.social)
+![Static Badge](https://img.shields.io/badge/Thomas%20ZuckerScharff-brown?style=plastic&logo=amazon&logoColor=white&labelColor=black&link=https%3A%2F%2Famazon.com)
 
