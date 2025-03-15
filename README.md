@@ -16,7 +16,7 @@ Hi! I'm Tom.  I am a data analyst with a background in data visualization, techn
 
 Check out my [portfolio and resources page](https://github.com/tzucker02/Projects/blob/main/README.md) where you can see different repos, projects, and data science resources (if you are looking for some [cheatsheets for Python](https://github.com/tzucker02/Projects/blob/main/Python%20Cheatsheets.md), [course links](https://github.com/tzucker02/course_material/blob/main/README.md), [datasets I am no longer using](https://github.com/tzucker02/Projects/blob/main/Dataset_Sources.md#datasets-I-am-no-longer-using), or [datasets links](https://github.com/tzucker02/Projects/blob/main/Dataset_Sources.md) try those links instead.)
 
-If you would like to customize your own GitHub profile page, I put together ([Customizing my profile page directions](https://github.com/tzucker02/How-to-customize-your-GitHub-profile/raw/main/profile_customization.pdf)) you are welcome to use.
+If you would like to customize your own GitHub profile page, I put together a set of [directions to help you customize your profile page](https://github.com/tzucker02/How-to-customize-your-GitHub-profile/raw/main/profile_customization.pdf)) you are welcome to use.
 
 ## Some Tools
 
