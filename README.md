@@ -71,6 +71,4 @@ Find out more about me & feel free to connect with me here:
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=tzucker02&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tzucker02&hide=TeX&layout=compact)
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=tzucker02&label=Visitors&countColor=%23263759)](https://visitorbadge.io/status?path=tzucker02)
-
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=tzucker02%2Ftzucker02&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=tzucker02%2Ftzucker02)
