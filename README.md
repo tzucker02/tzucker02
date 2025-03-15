@@ -17,9 +17,8 @@ Hi! I'm Tom.  I am a data analyst with a background in data visualization, techn
 Check out my [portfolio and resources page](https://github.com/tzucker02/Projects/blob/main/README.md) where you can see different repos, projects, and data science resources (if you are looking for some [cheatsheets for Python](https://github.com/tzucker02/Projects/blob/main/Python%20Cheatsheets.md), [course links](https://github.com/tzucker02/course_material/blob/main/README.md), [datasets I am no longer using](https://github.com/tzucker02/Projects/blob/main/Dataset_Sources.md#datasets-I-am-no-longer-using), or [datasets links](https://github.com/tzucker02/Projects/blob/main/Dataset_Sources.md) try those links instead.)
 
 If you would like to customize your own GitHub profile page, I put together [a quick how-to](https://github.com/tzucker02/How-to-customize-your-GitHub-profile/blob/main/README.md) you are welcome to use.
-{% raw %}
-<button onclick="window.open('/books/book.pdf')">Download</button>
-{% endraw %}
+
+<a href="https://github.com/tzucker02/How-to-customize-your-GitHub-profile/blob/main/Customizing%20your%20GitHub%20default%20readme.md%20page.pdf" download>Download link</a>
 
 ## Some Tools
 
