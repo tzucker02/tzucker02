@@ -73,4 +73,4 @@ Find out more about me & feel free to connect with me here:
 
 [![Visitors](https://api.visitorbadge.io/api/daily?path=tzucker02&label=DAILY%20VISITORS&countColor=%23555555&style=flat-square&labelStyle=upper)](https://visitorbadge.io/status?path=tzucker02)
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=tzucker02%2Ftzucker02&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=tzucker02%2Ftzucker02)
+[![Visitors](https://api.visitorbadge.io/api/daily?path=tzucker02&label=TOTAL%20VISITORS&countColor=%23555555&labelStyle=upper)](https://visitorbadge.io/status?path=tzucker02)
