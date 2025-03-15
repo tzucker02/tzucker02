@@ -40,4 +40,4 @@ These are a few of the Social Media networks I can be found on:
 
 [![Visitors](https://api.visitorbadge.io/api/daily?path=tzucker02&label=TOTAL%20VISITORS&countColor=%23555555&labelStyle=upper)](https://visitorbadge.io/status?path=tzucker02)
 
-
+![Static Badge](https://img.shields.io/badge/Thomas%20ZuckerScharff-blue?style=plastic&logo=facebook&logoColor=white&logoSize=auto&labelColor=Blue&color=blue&link=https%3A%2F%2Fwww.facebook.com%2Ftzuckerscharff)
