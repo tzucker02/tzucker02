@@ -18,7 +18,7 @@ Check out my [portfolio and resources page](https://github.com/tzucker02/Project
 
 If you would like to customize your own GitHub profile page, I put together [a quick how-to](https://github.com/tzucker02/How-to-customize-your-GitHub-profile/blob/main/README.md) you are welcome to use.
 
-<a href="https://github.com/tzucker02/How-to-customize-your-GitHub-profile/blob/main/Customizing%20your%20GitHub%20default%20readme.md%20page.pdf" download="Customizing%20your%20GitHub%20default%20readme.md%20page.pdf">Download link</a>
+[<a href="https://github.com/tzucker02/How-to-customize-your-GitHub-profile/blob/main/Customizing%20your%20GitHub%20default%20readme.md%20page.pdf" download="Customizing%20your%20GitHub%20default%20readme.md%20page.pdf">Download link</a>](https://raw.githubusercontent.com/tzucker02/How-to-customize-your-GitHub-profile/main/Customizing%20your%20GitHub%20default%20readme.md%20page.pdf)
 
 ## Some Tools
 
