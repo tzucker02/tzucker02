@@ -26,12 +26,6 @@ If you would like to customize your own GitHub profile page, I put together a se
 - **Reference Managers**: [EndNote](https://www.endnote.com) , [Zotero](https://www.zotero.org/tcszucker/library), Mendeley, F1000
 - **Operating Systems**: Windows, MACOS, Linux, iOS, Android
 
-## Connect with me
-These are a few of the Social Media networks I can be found on:
-- [LinkedIn](https://www.linkedin.com/in/thomaszuckerscharff)
-- [BlueSky](https://bsky.app/profile/tomzs.bsky.social)
-- [Facebook](https://www.facebook.com/tzuckerscharff)
-
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. -->
 
@@ -39,6 +33,8 @@ These are a few of the Social Media networks I can be found on:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tzucker02&hide=TeX&layout=compact)
 
 [![Visitors](https://api.visitorbadge.io/api/daily?path=tzucker02&label=TOTAL%20VISITORS&countColor=%23555555&labelStyle=upper)](https://visitorbadge.io/status?path=tzucker02)
+
+## Connect with me
 
 [![Static Badge](https://img.shields.io/badge/Thomas%20ZuckerScharff-blue?style=plastic&logo=facebook&logoColor=white&logoSize=auto&labelColor=Blue&color=blue&link=https%3A%2F%2Fwww.facebook.com%2Ftzuckerscharff)](https://www.facebook.com/tzuckerscharff)
 [![Static Badge](https://img.shields.io/badge/Thomas%20ZuckerScharff-Black?style=plastic&logo=discord&logoColor=white&logoSize=auto&labelColor=black&color=black&link=https%3A%2F%2Fwww.discord.com%2Fchannels%2Ftomzuckerscharff_98477)](https://discord.com/channels/tomzuckerscharff)
