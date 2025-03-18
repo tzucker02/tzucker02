@@ -33,6 +33,11 @@ If you would like to customize your own GitHub profile page, I put together a se
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftzucker02%2F&count_bg=%238E6CC9&title_bg=%23191717&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
+<!-- other counters 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Flinkedin.com%2Fin%2Fthomaszuckerscharff&count_bg=%2328262B&title_bg=%23055090&icon=linkedin.svg&icon_color=%23CEDCE9&title=LinkedIn&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Ffacebook.com%2Ftzuckerscharff&count_bg=%236D6A72&title_bg=%23468FCD&icon=facebook.svg&icon_color=%23FFFFFF&title=Facebook&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fdiscord.com%2Fchannels%2Ftomzuckerscharff_98477&count_bg=%236D6A72&title_bg=%23BCCAD7&icon=discord.svg&icon_color=%23101011&title=Discord&edge_flat=false)](https://hits.seeyoufarm.com)
+-->
 <!--
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ftzucker02&label=VISITORS&countColor=%23d9e3f0&style=plastic&labelStyle=upper)
 -->
