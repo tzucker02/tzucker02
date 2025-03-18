@@ -30,10 +30,12 @@ If you would like to customize your own GitHub profile page, I put together a se
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. -->
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=tzucker02&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tzucker02&hide=TeX&layout=compact)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftzucker02%2F&count_bg=%238E6CC9&title_bg=%23191717&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<!--
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ftzucker02&label=VISITORS&countColor=%23d9e3f0&style=plastic&labelStyle=upper)
-
+-->
 
 ## Connect with me
 
