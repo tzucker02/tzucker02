@@ -32,7 +32,8 @@ If you would like to customize your own GitHub profile page, I put together a se
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=tzucker02&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tzucker02&hide=TeX&layout=compact)
 
-[![Visitors](https://api.visitorbadge.io/api/daily?path=tzucker02&label=TOTAL%20VISITORS&countColor=%23555555&labelStyle=upper)](https://visitorbadge.io/status?path=tzucker02)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ftzucker02&label=VISITORS&countColor=%23d9e3f0&style=plastic&labelStyle=upper)
+
 
 ## Connect with me
 
