@@ -84,6 +84,9 @@ Here are a few of my projects:
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ftzucker02&label=VISITORS&countColor=%23d9e3f0&style=plastic&labelStyle=upper)
 -->
 
+Check out this collection of [Github readme.md widgets](https://github.com/madushadhanushka/github-readme)!
+
+
 ## Connect with me
 
 [![Static Badge](https://img.shields.io/badge/Thomas%20ZuckerScharff-blue?style=plastic&logo=facebook&logoColor=white&logoSize=auto&labelColor=Blue&color=blue&link=https%3A%2F%2Fwww.facebook.com%2Ftzuckerscharff)](https://www.facebook.com/tzuckerscharff)
