@@ -61,6 +61,11 @@ If you would like to customize your own GitHub profile page, I put together a se
       <td><img alt="Stars" src="https://img.shields.io/github/stars/tzucker02/How-to-customize-your-GitHub-profile?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/tzucker02/How-to-customize-your-GitHub-profile?style=flat-square&labelColor=343b41"/></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/tzucker02/bu-cds-dx602-2025-spring/dx602-homework-07-tzucker02"><b>DX602 Homework 07</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/tzucker02/bu-cds-dx602-2025-spring/dx602-homework-07-tzucker02?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/tzucker02/bu-cds-dx602-2025-spring/dx602-homework-07-tzucker02?style=flat-square&labelColor=343b41"/></td>
+    </tr>
   </tbody>
 </table>
 
