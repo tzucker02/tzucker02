@@ -1,4 +1,4 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGlQXWqbQZJOfxE7MtMvIs9--VPgCp-dHPGA&s" height="20" width="20"></a>If you would like to customize your own GitHub profile page, I put together a set of [directions to help](https://github.com/tzucker02/How-to-customize-your-GitHub-profile/raw/main/profile_customization.pdf), which you are more than welcome to use.
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGlQXWqbQZJOfxE7MtMvIs9--VPgCp-dHPGA&s" height="20" width="20"></a>If you would like to customize your own GitHub profile page, I put together a set of [directions to help](https://github.com/tzucker02/How-to-customize-your-GitHub-profile/raw/main/profile_customization.pdf), which you are more than welcome to use. You should also check out this collection of [Github readme.md widgets](https://github.com/madushadhanushka/github-readme)!
 ![photo-1453928582365-b6ad33cbcf64](https://github.com/user-attachments/assets/e08da0b8-2d7f-4ab1-9720-d56df2152932)
 
 ### <img src="https://cdn.iconscout.com/icon/free/png-256/free-switch-position-icon-download-in-svg-png-gif-file-formats--users-turnover-employee-replace-tiny-pack-user-interface-icons-3381102.png" height="30" width="30"></a> I follow back!  
@@ -79,13 +79,12 @@ Here are a few of my projects:
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Flinkedin.com%2Fin%2Fthomaszuckerscharff&count_bg=%2328262B&title_bg=%23055090&icon=linkedin.svg&icon_color=%23CEDCE9&title=LinkedIn&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Ffacebook.com%2Ftzuckerscharff&count_bg=%236D6A72&title_bg=%23468FCD&icon=facebook.svg&icon_color=%23FFFFFF&title=Facebook&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fdiscord.com%2Fchannels%2Ftomzuckerscharff_98477&count_bg=%236D6A72&title_bg=%23BCCAD7&icon=discord.svg&icon_color=%23101011&title=Discord&edge_flat=false)](https://hits.seeyoufarm.com)
-<--></br>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=tzucker02)](https://git.io/streak-stats)
-<!--
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tzucker02&theme=dark)](https://github.com/tzucker02/github-readme-streak-stats)
+
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ftzucker02&label=VISITORS&countColor=%23d9e3f0&style=plastic&labelStyle=upper)
 -->
 
-Check out this collection of [Github readme.md widgets](https://github.com/madushadhanushka/github-readme)!
 
 
 ## Connect with me
