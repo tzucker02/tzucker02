@@ -85,7 +85,7 @@ Here are a few of my projects:
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ftzucker02&label=VISITORS&countColor=%23d9e3f0&style=plastic&labelStyle=upper)
 -->
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=tzucker02)](https://git.io/streak-stats)
 
 ## Connect with me
 
