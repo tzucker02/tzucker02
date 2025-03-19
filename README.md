@@ -16,8 +16,6 @@ Hi! I'm Tom.  I am a data analyst with a background in data visualization, techn
 
 Check out my [portfolio and resources page](https://github.com/tzucker02/Projects/blob/main/README.md) where you can see different repos, projects, and data science resources (if you are looking for some [cheatsheets for Python](https://github.com/tzucker02/Projects/blob/main/Python%20Cheatsheets.md), [course links](https://github.com/tzucker02/course_material/blob/main/README.md), [datasets I am no longer using](https://github.com/tzucker02/Projects/blob/main/Dataset_Sources.md#datasets-I-am-no-longer-using), or [datasets links](https://github.com/tzucker02/Projects/blob/main/Dataset_Sources.md) try those links instead.)
 
-If you would like to customize your own GitHub profile page, I put together a set of [directions to help you customize your profile page](https://github.com/tzucker02/How-to-customize-your-GitHub-profile/raw/main/profile_customization.pdf), which you are more than welcome to use.
-
 ## Some Tools
 
 <!--  - Websites: [Resume]() , [Personal]() -->
@@ -47,6 +45,7 @@ Here are a few of my projects:
       <td><img alt="Forks" src="https://img.shields.io/github/forks/tzucker02/projects?style=flat-square&labelColor=343b41"/></td>
       <!--
       <td><img alt="Commits" src="https://img.shields.io/github/commits/tzucker02/projects?style=flat-square&labelColor=343b41"/></td>
+      <<td cols=1 rows = 5>[![GitHub Streak](https://streak-stats.demolab.com?user=tzucker02)](https://git.io/streak-stats)</td>
       -->
     </tr>
     <tr>
@@ -72,9 +71,6 @@ Here are a few of my projects:
   </tbody>
 </table>
 
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftzucker02%2F&count_bg=%238E6CC9&title_bg=%23191717&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
-
 <!-- other counters 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Flinkedin.com%2Fin%2Fthomaszuckerscharff&count_bg=%2328262B&title_bg=%23055090&icon=linkedin.svg&icon_color=%23CEDCE9&title=LinkedIn&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Ffacebook.com%2Ftzuckerscharff&count_bg=%236D6A72&title_bg=%23468FCD&icon=facebook.svg&icon_color=%23FFFFFF&title=Facebook&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -86,6 +82,8 @@ Here are a few of my projects:
 -->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=tzucker02)](https://git.io/streak-stats)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftzucker02%2F&count_bg=%238E6CC9&title_bg=%23191717&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## Connect with me
 
