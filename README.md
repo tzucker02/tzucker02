@@ -31,7 +31,7 @@ If you would like to customize your own GitHub profile page, I put together a se
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=tzucker02&count_private=true&show_icons=true&include_all_commits=true)
 
-
+Here are a few of my projects:
 <table>
   <thead align="center">
     <tr border: none;>
@@ -45,6 +45,9 @@ If you would like to customize your own GitHub profile page, I put together a se
       <td><a href="https://github.com/tzucker02/Projects"><b>Readings</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/tzucker02/projects?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/tzucker02/projects?style=flat-square&labelColor=343b41"/></td>
+      <!--
+      <td><img alt="Commits" src="https://img.shields.io/github/commits/tzucker02/projects?style=flat-square&labelColor=343b41"/></td>
+      -->
     </tr>
     <tr>
       <td><a href="https://github.com/tzucker02/course_material"><b>Course Material</b></a></td>
