@@ -40,7 +40,7 @@ Here are a few of my projects:
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/tzucker02/Projects"><b>Readings</b></a></td>
+      <td><a href="https://github.com/tzucker02/Projects" target="_blank"><b>Readings</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/tzucker02/projects?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/tzucker02/projects?style=flat-square&labelColor=343b41"/></td>
       <!--
@@ -69,7 +69,7 @@ Here are a few of my projects:
       <td><img alt="Forks" src="https://img.shields.io/github/forks/tzucker02/dx699_milestone1?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td cols=3><a href="https://external.ink?to=/https://public.tableau.com/app/profile/thomaszuckerscharff/vizzes"><b>My Tableau Public profile</b></a></td>
+      <td cols=3><a href="https://public.tableau.com/app/profile/thomaszuckerscharff/vizzes" target="_blank"><b>My Tableau Public profile</b></a></td>
     </tr>    
   </tbody>
 </table>
