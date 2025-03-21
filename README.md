@@ -133,3 +133,13 @@ Here are a few of my projects:
 [![Static Badge](https://img.shields.io/badge/Thomas%20ZuckerScharff-blue?style=plastic&logo=bluesky&logoColor=white&logoSize=auto&cacheSeconds=https%3A%2F%2Fbsky.app%2Fprofile%2Fnewyorkmyc-tzs.bsky.social)](https://bsky.app/profile/newyorkmyc-tzs.bsky.social)
 [![Static Badge](https://img.shields.io/badge/Thomas%20ZuckerScharff-purple?style=plastic&logo=udemy&logoColor=white&link=https%3A%2F%2Fwww.udemy.com%2Fuser%2Fthomas-zucker-scharff%2F)](https://www.udemy.com/user/thomas-zucker-scharff)
 
+<!--
+## Hey 👋, This is Thomas Zucker-Scharff
+[![Gmail Badge](https://img.shields.io/badge/-tzucker@bu.edu-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tzucker@bu.edu)](mailto:tzucker@bu.edu) 
+[![Linkedin Badge](https://img.shields.io/badge/-thomaszuckerscharff-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thomaszuckerscharff/)](https://www.linkedin.com/in/thomaszuckerscharff/) [![Github Badge](https://img.shields.io/badge/-tzucker02-grey?style=flat&logo=github&logoColor=white&link=https://github.com/tzucker02/)](https://www.github.com/tzucker02/) [![Twitter Badge](https://img.shields.io/badge/-cyberdad-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/cyberdad/)](https://www.twitter.com/cyberdad/) <p align='left'>I am a Data analyst, data visualizer and dashboard developer using Power BI and Tableau for visualizations and Python for analysis.</p>
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=tzucker02 alt=tzucker02 /> </p>
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=tzucker02&show_icons=true&include_all_commits=true)](https://github.com/tzucker02/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tzucker02&layout=compact)](https://github.com/tzucker02/github-readme-stats)
+-->
