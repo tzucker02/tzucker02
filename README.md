@@ -19,6 +19,10 @@
 
 ![photo-1453928582365-b6ad33cbcf64](https://github.com/user-attachments/assets/e08da0b8-2d7f-4ab1-9720-d56df2152932)  
 
+<!--
+<img src="https://widgetbite.com/banner?title=Tom%20Zucker-Scharff&subtitle=Data%20Analyst%2C%20Visualizer%20%26%20Dashboard%20developer&backgroundpalette=harvest&fontpalette=twilight&titletransform=none&subtitletransform=rotate" width=100% height=100%/>
+-->
+
 ### <img src="https://cdn.iconscout.com/icon/free/png-256/free-switch-position-icon-download-in-svg-png-gif-file-formats--users-turnover-employee-replace-tiny-pack-user-interface-icons-3381102.png" height="30" width="30"></a> I follow back!  
 (if my # of followers doesn't match my # of following, it just means I haven't checked it yet today)
 
