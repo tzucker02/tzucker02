@@ -61,13 +61,12 @@ Here are a few of my projects:
     </tr>
   </thead>
   <tbody>
-    <!--
     <tr>
-      <td><a href="https://github.com/tzucker02/Projects" target="_blank"><b>Projects</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/tzucker02/projects?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/tzucker02/projects?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Commits" src="https://img.shields.io/github/commits/tzucker02/projects?style=flat-square&labelColor=343b41"/></td>
-      <<td cols=1 rows = 5>[![GitHub Streak](https://streak-stats.demolab.com?user=tzucker02)](https://git.io/streak-stats)</td>
+      <td><a href="https://github.com/tzucker02/Course_content_by_week" target="_blank"><b>Course by week</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/tzucker02/Course_content_by_week?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/tzucker02/Course_content_by_week?style=flat-square&labelColor=343b41"/></td>
+    <!--
+      <td><img alt="Commits" src="https://img.shields.io/github/commits/tzucker02/Course_content_by_week?style=flat-square&labelColor=343b41"/></td>
     </tr>
     -->    
     <tr>
