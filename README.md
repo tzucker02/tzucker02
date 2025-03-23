@@ -119,10 +119,6 @@ Here are a few of my projects:
 
 <a href='https://www.gitclear.com/snap_changelogs/c721b538-61fd-4fc9-bf0e-7542e4f046f3' target='_blank'><img src='https://www.gitclear.com/snap_changelogs/c721b538-61fd-4fc9-bf0e-7542e4f046f3.png' /></a>
 
-<div align="center">
-    <img alt="Visitor Stats" 
-        src="https://widgetbite.com/stats/tzucker02"/>  
-</div>
 
 ## Connect with me
 
