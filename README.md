@@ -1,4 +1,6 @@
 <!--
+// Fullscript:  <script src="https://gist.github.com/ryanlanciaux/3e29e75bd32efee9681c2ab85b99cc6f.js"></script>
+
 // This app initially started from Flavio Copes analytics example
 // but diverged quite a bit to generate images as well as track views
 // https://flaviocopes.com/count-visits-static-site/
@@ -50,10 +52,10 @@ const listener = app.listen(process.env.PORT, () => {
   console.log('Your app is listening on port ' + listener.address().port)
 })
 -->
+The following is a page hits counter which does not seem to be working:</br> 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftzucker02%2F&count_bg=%238E6CC9&title_bg=%23191717&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftzucker02%2F&count_bg=%238E6CC9&title_bg=%23191717&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)  
-
-**Visitors:**  ![Visitor Count](https://profile-counter.glitch.me/tzucker02/count.svg)
+# You are Visitor #:  ![Visitor Count](https://profile-counter.glitch.me/tzucker02/count.svg)
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGlQXWqbQZJOfxE7MtMvIs9--VPgCp-dHPGA&s" height="20" width="20"></a>If you would like to customize your own GitHub profile page, I put together a set of [directions to help](https://github.com/tzucker02/How-to-customize-your-GitHub-profile/raw/main/profile_customization.pdf), which you are more than welcome to use. You should also check out this collection of [Github readme.md widgets](https://github.com/madushadhanushka/github-readme)!  
 
