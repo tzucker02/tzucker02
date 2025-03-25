@@ -163,6 +163,7 @@ Here are a few of my projects:
 <a href='https://www.gitclear.com/snap_changelogs/c721b538-61fd-4fc9-bf0e-7542e4f046f3' target='_blank'><img src='https://www.gitclear.com/snap_changelogs/c721b538-61fd-4fc9-bf0e-7542e4f046f3.png' /></a>
 
 
+
 ## Connect with me
 
 [![Static Badge](https://img.shields.io/badge/Thomas%20ZuckerScharff-blue?style=plastic&logo=facebook&logoColor=white&logoSize=auto&labelColor=Blue&color=blue&link=https%3A%2F%2Fwww.facebook.com%2Ftzuckerscharff)](https://www.facebook.com/tzuckerscharff)
