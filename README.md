@@ -117,6 +117,9 @@ Here are a few of my projects:
       <td><img alt="Contributors" src="https://img.shields.io/github/contributors/tzucker02/Course_content_by_week?style=plastic&cacheSeconds=600"</td>
       <td><a href="https://github.com/tzucker02/Course_content_by_week/pulse"><img alt="Pulse" src="https://img.shields.io/badge/Pulse-brown?style=plastic&cacheSeconds=600"</a></td>
     <!--
+      <td><a href="https://github.com/tzucker02/Course_content_by_week/graphs/traffic"><img alt="Pulse" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"</a></td>
+    -->
+    <!--
       <td><img alt="Commits" src="https://img.shields.io/github/commits/tzucker02/Course_content_by_week?style=flat-square&labelColor=343b41"/></td>
     </tr>
     -->    
