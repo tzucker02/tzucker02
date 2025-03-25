@@ -104,15 +104,18 @@ Here are a few of my projects:
       <td><b>🤝 Forks</b></td>
       <td><b><img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/git-commit-4241545-3517850.png" height="15" width="15">&nbsp;&nbsp;</b>    Commits</b></td>
       <td><b><img src="https://cdn-icons-png.freepik.com/256/15452/15452650.png?semt=ais_hybrid" height="15" width="15">      Contributors</b></td>
+      <td><b><img src="https://raw.githubusercontent.com/pulsecron/pulse/HEAD/pulse.png" height="15" width="15">&nbsp;&nbsp;&nbsp;Pulse</b></td>
     </tr>
   </thead>
-  <tbody>
+  <body align="center">
+    <div align="center">
     <tr>
       <td><a href="https://github.com/tzucker02/Course_content_by_week" target="_blank"><b>Course by week</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/tzucker02/Course_content_by_week?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/tzucker02/Course_content_by_week?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/tzucker02/Course_content_by_week?style=plastic"</td>
       <td><img alt="Contributors" src="https://img.shields.io/github/contributors/tzucker02/Course_content_by_week?style=plastic&cacheSeconds=600"</td>
+      <td><a href="https://github.com/tzucker02/Course_content_by_week/pulse"><img alt="Pulse" src="https://img.shields.io/badge/Pulse-brown?style=plastic&cacheSeconds=600"</a></td>
     <!--
       <td><img alt="Commits" src="https://img.shields.io/github/commits/tzucker02/Course_content_by_week?style=flat-square&labelColor=343b41"/></td>
     </tr>
@@ -123,6 +126,7 @@ Here are a few of my projects:
       <td><img alt="Forks" src="https://img.shields.io/github/forks/tzucker02/course_material?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/tzucker02/course_material?style=plastic"</td>
       <td><img alt="Contributors" src="https://img.shields.io/github/contributors/tzucker02/course_material?style=plastic&cacheSeconds=600"</td>
+      <td><a href="https://github.com/tzucker02/course_material/pulse"><img alt="Pulse" src="https://img.shields.io/badge/Pulse-brown?style=plastic&cacheSeconds=600"</a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/tzucker02/Data-science-readings"><b>Data Science Readings</b></a></td>
@@ -130,6 +134,7 @@ Here are a few of my projects:
       <td><img alt="Forks" src="https://img.shields.io/github/forks/tzucker02/Data-science-readings?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/tzucker02/Data-science-readings?style=plastic"</td>
       <td><img alt="Contributors" src="https://img.shields.io/github/contributors/tzucker02/Data-science-readings?style=plastic&cacheSeconds=600"</td>
+      <td><a href="https://github.com/tzucker02/Data-science-readings/pulse"><img alt="Pulse" src="https://img.shields.io/badge/Pulse-brown?style=plastic&cacheSeconds=600"</a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/tzucker02/How-to-customize-your-GitHub-profile"><b>How to customize your GitHub profile</b></a></td>
@@ -137,6 +142,7 @@ Here are a few of my projects:
       <td><img alt="Forks" src="https://img.shields.io/github/forks/tzucker02/How-to-customize-your-GitHub-profile?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/tzucker02/How-to-customize-your-GitHub-profile?style=plastic"</td>
       <td><img alt="Contributors" src="https://img.shields.io/github/contributors/tzucker02/How-to-customize-your-GitHub-profile?style=plastic&cacheSeconds=600"</td>
+      <td><a href="https://github.com/tzucker02/How-to-customize-your-GitHub-profile/pulse"><img alt="Pulse" src="https://img.shields.io/badge/Pulse-brown?style=plastic&cacheSeconds=600"</a></td>
       <!--
       [insights for customization repo](https://github.com/tzucker02/How-to-customize-your-GitHub-profile/pulse)
       -->
@@ -147,6 +153,7 @@ Here are a few of my projects:
       <td><img alt="Forks" src="https://img.shields.io/github/forks/tzucker02/dx699_milestone1?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/tzucker02/dx699_milestone1?style=plastic"</td>
       <td><img alt="Contributors" src="https://img.shields.io/github/contributors/tzucker02/dx699_milestone1?style=plastic&cacheSeconds=600"</td>
+      <td><a href="https://github.com/tzucker02/dx699_milestone1/pulse"><img alt="Pulse" src="https://img.shields.io/badge/Pulse-brown?style=plastic&cacheSeconds=600"</a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/tzucker02/Links"><b>Python Cheatsheets</b></a></td>
@@ -154,6 +161,7 @@ Here are a few of my projects:
       <td><img alt="Forks" src="https://img.shields.io/github/forks/tzucker02/Links?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/tzucker02/Links?style=plastic"</td>
       <td><img alt="Contributors" src="https://img.shields.io/github/contributors/tzucker02/links?style=plastic&cacheSeconds=600"</td>
+      <td><a href="https://github.com/tzucker02/Links/pulse"><img alt="Pulse" src="https://img.shields.io/badge/Pulse-brown?style=plastic&cacheSeconds=600"</a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/tzucker/scriptfromAJZS"><b>Aram Zucker-Scharff's brew script for setting up Python on a MAC</b></a></td>
@@ -161,10 +169,12 @@ Here are a few of my projects:
       <td><img alt="Forks" src="https://img.shields.io/github/forks/tzucker02/scriptfromAJZS?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/tzucker02/scriptfromAJZS?style=plastic"</td>
       <td><img alt="Contributors" src="https://img.shields.io/github/contributors/tzucker02/scriptfromAJZS?style=plastic&cacheSeconds=600"</td>
+      <td><a href="https://github.com/tzucker02/scriptfromAJZS/pulse"><img alt="Pulse" src="https://img.shields.io/badge/Pulse-brown?style=plastic&cacheSeconds=600"</a></td>
     </tr>
     <tr>
       <td cols=4><a href="https://public.tableau.com/app/profile/thomaszuckerscharff/vizzes" target="_blank"><b>My Tableau Public profile</b></a></td>
-    </tr>    
+    </tr>   
+    </div>
   </tbody>
 </table>
 
@@ -183,6 +193,8 @@ Here are a few of my projects:
 <a href='https://www.gitclear.com/snap_changelogs/c721b538-61fd-4fc9-bf0e-7542e4f046f3' target='_blank'><img src='https://www.gitclear.com/snap_changelogs/c721b538-61fd-4fc9-bf0e-7542e4f046f3.png' /></a>
 
 [GitHub insights for customization repo](https://github.com/tzucker02/How-to-customize-your-GitHub-profile/pulse)
+
+
 
 ## Connect with me
 
