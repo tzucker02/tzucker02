@@ -198,10 +198,12 @@ Here are a few of my projects:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=tzucker02)](https://git.io/streak-stats)
 
+This graphic tends to show older statistics. To see trhe latest click the gitclear link in the lower right-hand corner.
 <a href='https://www.gitclear.com/snap_changelogs/c721b538-61fd-4fc9-bf0e-7542e4f046f3' target='_blank'><img src='https://www.gitclear.com/snap_changelogs/c721b538-61fd-4fc9-bf0e-7542e4f046f3.png' /></a>
 
+<!--
 [GitHub insights for customization repo](https://github.com/tzucker02/How-to-customize-your-GitHub-profile/pulse)
-
+-->
 
 
 ## Connect with me
