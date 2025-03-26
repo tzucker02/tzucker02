@@ -104,7 +104,7 @@ Here are a few of my projects:
       <td><b>🤝 Forks</b></td>
       <td><b><img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/git-commit-4241545-3517850.png" height="15" width="15">&nbsp;&nbsp;</b>    Commits</b></td>
       <td><b><img src="https://cdn-icons-png.freepik.com/256/15452/15452650.png?semt=ais_hybrid" height="15" width="15">      Contributors</b></td>
-      <td><b><img src="https://raw.githubusercontent.com/pulsecron/pulse/HEAD/pulse.png" height="15" width="15">&nbsp;&nbsp;&nbsp;Pulse</b></td>
+      <td><b><img src="https://raw.githubusercontent.com/pulsecron/pulse/HEAD/pulse.png" height="15" width="15">&nbsp;&nbsp;&nbsp;More</b></td>
     </tr>
   </thead>
   <body align="center">
@@ -115,10 +115,7 @@ Here are a few of my projects:
       <td><img alt="Forks" src="https://img.shields.io/github/forks/tzucker02/Course_content_by_week?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/tzucker02/Course_content_by_week?style=plastic"</td>
       <td><img alt="Contributors" src="https://img.shields.io/github/contributors/tzucker02/Course_content_by_week?style=plastic&cacheSeconds=600"</td>
-      <td><a href="https://github.com/tzucker02/Course_content_by_week/pulse"><img alt="Pulse" src="https://img.shields.io/badge/Pulse-brown?style=plastic&cacheSeconds=600"</a></td>
-    <!--
-      <td><a href="https://github.com/tzucker02/Course_content_by_week/graphs/traffic"><img alt="Pulse" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"</a></td>
-    -->
+      <td><a href="https://github.com/tzucker02/Course_content_by_week/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"</a></td>    
     <!--
       <td><img alt="Commits" src="https://img.shields.io/github/commits/tzucker02/Course_content_by_week?style=flat-square&labelColor=343b41"/></td>
     </tr>
