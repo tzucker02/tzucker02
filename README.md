@@ -126,7 +126,7 @@ Here are a few of my projects:
       <td><img alt="Forks" src="https://img.shields.io/github/forks/tzucker02/course_material?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/tzucker02/course_material?style=plastic"</td>
       <td><img alt="Contributors" src="https://img.shields.io/github/contributors/tzucker02/course_material?style=plastic&cacheSeconds=600"</td>
-      <td><a href="https://github.com/tzucker02/course_material/pulse"><img alt="Pulse" src="https://img.shields.io/badge/Pulse-brown?style=plastic&cacheSeconds=600"</a></td>
+      <td><a href="https://github.com/tzucker02/course_material/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"</a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/tzucker02/Data-science-readings"><b>Data Science Readings</b></a></td>
