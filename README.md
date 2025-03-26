@@ -110,6 +110,14 @@ Here are a few of my projects:
   <body align="center">
     <div align="center">
     <tr>
+      <td><a href="https://github.com/tzucker02/Projects" target="_blank"><b>Portfolio Page</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/tzucker02/Projects?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/tzucker02/Projects?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/tzucker02/Projects?style=plastic"</td>
+      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/tzucker02/Projects?style=plastic&cacheSeconds=600"</td>
+      <td><a href="https://github.com/tzucker02/Projects/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"</a></td>   
+    </tr>
+    <tr>
       <td><a href="https://github.com/tzucker02/Course_content_by_week" target="_blank"><b>Course by week</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/tzucker02/Course_content_by_week?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/tzucker02/Course_content_by_week?style=flat-square&labelColor=343b41"/></td>
