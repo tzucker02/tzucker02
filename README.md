@@ -104,7 +104,8 @@ Here are a few of my projects:
       <td><b>🤝 Forks</b></td>
       <td><b><img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/git-commit-4241545-3517850.png" height="15" width="15">&nbsp;&nbsp;</b>    Commits</b></td>
       <td><b><img src="https://cdn-icons-png.freepik.com/256/15452/15452650.png?semt=ais_hybrid" height="15" width="15">      Contributors</b></td>
-      <td><b><img src="https://raw.githubusercontent.com/pulsecron/pulse/HEAD/pulse.png" height="15" width="15">&nbsp;&nbsp;&nbsp;More</b></td>
+      <td><b><img src="https://cdn-icons-png.flaticon.com/256/3161/3161694.png" height="25" width="20">&nbsp;&nbsp;&nbsp;Traffic</b></td>
+      <td><b><img src="https://raw.githubusercontent.com/pulsecron/pulse/HEAD/pulse.png" height="15" width="15">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Created </b></td>
     </tr>
   </thead>
   <body align="center">
