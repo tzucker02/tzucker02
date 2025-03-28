@@ -52,13 +52,16 @@ app.get('/count.svg', (req, res) => {
 const listener = app.listen(process.env.PORT, () => {
   console.log('Your app is listening on port ' + listener.address().port)
 })
--->
+
 The following is a page hits counter which does not seem to be working (I keep it here, so it will continue to count just in case it starts working again):</br> 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftzucker02%2F&count_bg=%238E6CC9&title_bg=%23191717&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
-
+-->
+# [![Hits](https://hits.sh/github.com/tzucker02/hits.svg?style=plastis&color=blue&view=today-total&extraCount=303&label=Today/Total)](https://hits.sh/github.com/tzucker02/hits/)
+<!--
+# ![](https://komarev.com/ghpvc/?username=tzucker02&color=blueviolet&style=plastic&base=300)
 
 # You are Visitor #:  ![Visitor Count](https://profile-counter.glitch.me/tzucker02/count.svg)
-
+-->
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGlQXWqbQZJOfxE7MtMvIs9--VPgCp-dHPGA&s" height="20" width="20"></a>If you would like to customize your own GitHub profile page, I put together a set of [directions to help](https://github.com/tzucker02/How-to-customize-your-GitHub-profile/raw/main/profile_customization.pdf), which you are more than welcome to use. You should also check out this collection of [Github readme.md widgets](https://github.com/madushadhanushka/github-readme)!  
 
 ![photo-1453928582365-b6ad33cbcf64](https://github.com/user-attachments/assets/e08da0b8-2d7f-4ab1-9720-d56df2152932)  
