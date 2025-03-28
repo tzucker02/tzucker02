@@ -52,10 +52,10 @@ app.get('/count.svg', (req, res) => {
 const listener = app.listen(process.env.PORT, () => {
   console.log('Your app is listening on port ' + listener.address().port)
 })
-
+-->
 The following is a page hits counter which does not seem to be working:</br> 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftzucker02%2F&count_bg=%238E6CC9&title_bg=%23191717&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
--->
+
 
 # You are Visitor #:  ![Visitor Count](https://profile-counter.glitch.me/tzucker02/count.svg)
 
