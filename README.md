@@ -66,7 +66,7 @@ The following is a page hits counter which does not seem to be working (I keep i
 
 # You are Visitor #:  ![Visitor Count](https://profile-counter.glitch.me/tzucker02/count.svg)
 -->
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGlQXWqbQZJOfxE7MtMvIs9--VPgCp-dHPGA&s" height="20" width="20"></a>If you would like to customize your own GitHub profile page, I put together a set of [directions to help](https://github.com/tzucker02/How-to-customize-your-GitHub-profile/raw/main/profile_customization.pdf), which you are more than welcome to use. You should also check out this collection of [Github readme.md widgets](https://github.com/madushadhanushka/github-readme)!  
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGlQXWqbQZJOfxE7MtMvIs9--VPgCp-dHPGA&s" height="20" width="20"></a>If you would like to customize your own GitHub profile page, I put together a set of [directions to help](https://github.com/tzucker02/How-to-customize-your-GitHub-profile/raw/main/profile_customization.pdf), which you are more than welcome to use. You should also check out this collection of [Github readme.md widgets](https://github.com/madushadhanushka/github-readme)!  (NOTE: I have changed my own GitHub profile readme quite a bit since writing this.  Some of the examples you may no onger see on this page while others you may see are new and/or different.)
 
 <!--
 https://hits-app.vercel.app/hits?url=https://github.com/tzucker02/
