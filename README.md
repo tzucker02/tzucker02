@@ -227,7 +227,9 @@ This graphic tends to show older statistics. To see the latest click the gitclea
 
 [GitHub insights for customization repo](https://github.com/tzucker02/How-to-customize-your-GitHub-profile/pulse)
 -->
-http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tzucker02&theme=github
+## More stats graphs
+![Profile Summary Card](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tzucker02&theme=github)
+![Profile Summary Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tzucker02&theme=github)
 
 ## Connect with me
 
