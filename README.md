@@ -173,7 +173,7 @@ Here are a few of my projects:
       [insights for customization repo](https://github.com/tzucker02/How-to-customize-your-GitHub-profile/pulse)
       -->
     </tr>
-    <tr>
+<!--     <tr>
       <td><a href="https://github.com/tzucker02/dx699_milestone1"><b>DX699 Milestone 1</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/tzucker02/dx699_milestone1?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/tzucker02/dx699_milestone1?style=flat-square&labelColor=343b41"/></td>
@@ -181,7 +181,7 @@ Here are a few of my projects:
       <td><img alt="Contributors" src="https://img.shields.io/github/contributors/tzucker02/dx699_milestone1?style=plastic&cacheSeconds=600"</td>
       <td><a href="https://github.com/tzucker02/dx699_milestone1/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"</a></td>
       <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/tzucker02/dx699_milestone1"></td>
-    </tr>
+    </tr> -->
     <tr>
       <td><a href="https://github.com/tzucker02/Links"><b>Python Cheatsheets</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/tzucker02/Links?style=flat-square&labelColor=343b41"/></td>
