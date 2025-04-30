@@ -230,6 +230,15 @@ This graphic tends to show older statistics. To see the latest click the gitclea
 ## More stats graphs
 ![Profile Summary Card](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tzucker02&theme=nord_dark)![Profile Card](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tzucker02&theme=nord_dark&utcOffset=-5)![Profile Summary Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tzucker02&theme=nord_dark)
 
+<!--
+Analytics.pageView = async function (payload) {
+  if (payload.uid === 1) {
+    return;
+  }	
+  local.pageViews += 1;
+-->
+
+
 ## Connect with me
 
 [![Static Badge](https://img.shields.io/badge/Thomas%20ZuckerScharff-blue?style=plastic&logo=facebook&logoColor=white&logoSize=auto&labelColor=Blue&color=blue&link=https%3A%2F%2Fwww.facebook.com%2Ftzuckerscharff)](https://www.facebook.com/tzuckerscharff)
