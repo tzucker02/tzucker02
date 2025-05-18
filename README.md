@@ -92,7 +92,7 @@ Hi! I'm Tom.  I am a data analyst with a background in data visualization, techn
 
 ## Projects
 
-Check out my [portfolio and resources page](https://github.com/tzucker02/Projects/blob/main/README.md) where you can see different repos, projects, and data science resources (if you are looking for some [cheatsheets for Python](https://github.com/tzucker02/Projects/blob/main/Python%20Cheatsheets.md), [Python code snippets](https://github.com/tzucker02/PythonCode/blob/main/README.md),  [course links](https://github.com/tzucker02/course_material/blob/main/README.md), [datasets I am no longer using](https://github.com/tzucker02/Projects/blob/main/Dataset_Sources.md#datasets-I-am-no-longer-using), or [datasets links](https://github.com/tzucker02/Projects/blob/main/Dataset_Sources.md) try those links instead.)
+Check out my [portfolio and resources page](https://github.com/tzucker02/Projects/blob/main/README.md) where you can see different repos, projects, and data science resources (if you are looking for some [cheatsheets for Python](https://github.com/tzucker02/Projects/blob/main/Python%20Cheatsheets.md), [Python code snippets](https://github.com/tzucker02/PythonCode/blob/main/README.md),  [course links](https://github.com/tzucker02/course_material/blob/main/README.md), [datasets I am no longer using](https://github.com/tzucker02/Projects/blob/main/Dataset_Sources.md#datasets-I-am-no-longer-using), or [datasets links](https://github.com/tzucker02/Projects/blob/main/Dataset_Sources.md) try those links instead.) If you are interested in the Titanic datset, there is a dictionary for the cleansed (PLMB) version [here](https://github.com/tzucker02/PythonCode/blob/main/Titanic_dictionary.md).
 
 ## Some Tools
 
