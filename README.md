@@ -72,8 +72,7 @@ The following is a page hits counter which does not seem to be working (I keep i
 <!--
 https://hits-app.vercel.app/hits?url=https://github.com/tzucker02/
 -->
-
-![photo-1453928582365-b6ad33cbcf64](https://github.com/user-attachments/assets/e08da0b8-2d7f-4ab1-9720-d56df2152932)  
+![github](https://github.com/user-attachments/assets/38faefe1-f176-4a18-9d24-1a1276988253)
 
 <!--
 <img src="https://widgetbite.com/banner?title=Tom%20Zucker-Scharff&subtitle=Data%20Analyst%2C%20Visualizer%20%26%20Dashboard%20developer&backgroundpalette=harvest&fontpalette=twilight&titletransform=none&subtitletransform=rotate" width=100% height=100%/>
