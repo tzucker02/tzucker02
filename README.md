@@ -88,6 +88,7 @@ Hi! I'm Tom.  I am a data analyst with a background in data visualization, techn
 - VBA programming
 - dashboard development
 - data reporting
+- Python programming
 
 ## Projects
 
