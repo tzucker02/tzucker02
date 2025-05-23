@@ -201,6 +201,15 @@ Here are a few of my projects:
       <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/tzucker02/PythonCode"></td>
     </tr>
     <tr>
+      <td><a href="https://github.com/tzucker02/customization"><b>Python Code Snippets</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/tzucker02/customization?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/tzucker02/customization?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/tzucker02/customization?style=plastic"</td>
+      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/tzucker02/customization?style=plastic&cacheSeconds=600"</td>
+      <td><a href="https://github.com/tzucker02/customization/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"</a></td>
+      <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/tzucker02/customization"></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/tzucker/scriptfromAJZS"><b>Aram Zucker-Scharff's brew script for setting up Python on a MAC</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/tzucker02/scriptfromAJZS?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/tzucker02/scriptfromAJZS?style=flat-square&labelColor=343b41"/></td>
