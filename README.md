@@ -123,7 +123,7 @@ Here are a few of my projects:
   <body align="center">
     <div align="center">
     <tr>
-      <td><a href="https://github.com/tzucker02/Projects" target="_blank"><b>Portfolio Page</b></a></td>
+      <td>🐵<a href="https://github.com/tzucker02/Projects" target="_blank"><b> Portfolio Page</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/tzucker02/Projects?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/tzucker02/Projects?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/tzucker02/Projects?style=plastic"</td>
@@ -132,7 +132,7 @@ Here are a few of my projects:
       <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/tzucker02/Projects"></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/tzucker02/Course_content_by_week" target="_blank"><b>Course by week</b></a></td>
+      <td>🏫<a href="https://github.com/tzucker02/Course_content_by_week" target="_blank"><b> Course by week</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/tzucker02/Course_content_by_week?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/tzucker02/Course_content_by_week?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/tzucker02/Course_content_by_week?style=plastic"</td>
@@ -144,7 +144,7 @@ Here are a few of my projects:
     </tr>
     -->    
     <tr>
-      <td><a href="https://github.com/tzucker02/course_material"><b>Course Material</b></a></td>
+      <td>🖥<a href="https://github.com/tzucker02/course_material"><b> Course Material</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/tzucker02/course_material?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/tzucker02/course_material?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/tzucker02/course_material?style=plastic"</td>
@@ -153,7 +153,7 @@ Here are a few of my projects:
       <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/tzucker02/course_material"></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/tzucker02/Data-science-readings"><b>Data Science Readings</b></a></td>
+      <td>📚<a href="https://github.com/tzucker02/Data-science-readings"><b> Data Science Readings</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/tzucker02/Data-science-readings?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/tzucker02/Data-science-readings?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/tzucker02/Data-science-readings?style=plastic"</td>
@@ -183,7 +183,7 @@ Here are a few of my projects:
       <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/tzucker02/dx699_milestone1"></td>
     </tr> -->
     <tr>
-      <td><a href="https://github.com/tzucker02/Links"><b>Python Cheatsheets</b></a></td>
+      <td>📑<a href="https://github.com/tzucker02/Links"><b> Python Cheatsheets</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/tzucker02/Links?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/tzucker02/Links?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/tzucker02/Links?style=plastic"</td>
@@ -192,7 +192,7 @@ Here are a few of my projects:
       <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/tzucker02/Links"></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/tzucker02/PythonCode"><b>Python Code Snippets</b></a></td>
+      <td>✍<a href="https://github.com/tzucker02/PythonCode"><b> Python Code Snippets</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/tzucker02/PythonCode?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/tzucker02/PythonCode?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/tzucker02/PythonCode?style=plastic"</td>
@@ -201,7 +201,7 @@ Here are a few of my projects:
       <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/tzucker02/PythonCode"></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/tzucker02/customization"><b>GitHub Readme Customization</b></a></td>
+      <td>👣<a href="https://github.com/tzucker02/customization"><b> GitHub Readme Customization</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/tzucker02/customization?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/tzucker02/customization?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/tzucker02/customization?style=plastic"</td>
@@ -219,7 +219,7 @@ Here are a few of my projects:
       <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/tzucker02/scriptfromAJZS"></td>
     </tr>
     <tr>
-      <td cols=4><a href="https://public.tableau.com/app/profile/thomaszuckerscharff/vizzes" target="_blank"><b>My Tableau Public profile</b></a></td>
+      <td cols=4>🍄<a href="https://public.tableau.com/app/profile/thomaszuckerscharff/vizzes" target="_blank"><b> My Tableau Public profile</b></a></td>
     </tr>   
     </div>
   </tbody>
