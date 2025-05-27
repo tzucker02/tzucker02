@@ -111,7 +111,7 @@ Here are a few of my projects:
 <table>
   <thead align="center">
     <tr border: none;>
-      <td><b>📘 Project</b></td>
+      <td><b>📔 Project</b></td>
       <td><b>⭐ Stars</b></td>
       <td><b>🤝 Forks</b></td>
       <td><b><img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/git-commit-4241545-3517850.png" height="15" width="15">&nbsp;&nbsp;</b>    Commits</b></td>
