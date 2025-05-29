@@ -211,7 +211,7 @@ Here are a few of my projects:
       <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/tzucker02/customization"></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/tzucker/scriptfromAJZS"><b>Aram Zucker-Scharff's brew script for setting up Python on a MAC</b></a></td>
+      <td>📜<a href="https://github.com/tzucker/scriptfromAJZS"><b> Aram Zucker-Scharff's brew script for setting up Python on a MAC</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/tzucker02/scriptfromAJZS?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/tzucker02/scriptfromAJZS?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/tzucker02/scriptfromAJZS?style=plastic"</td>
