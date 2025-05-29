@@ -163,7 +163,7 @@ Here are a few of my projects:
       <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/tzucker02/Data-science-readings"></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/tzucker02/How-to-customize-your-GitHub-profile"><b>How to customize your GitHub profile</b></a></td>
+      <td>🖱<a href="https://github.com/tzucker02/How-to-customize-your-GitHub-profile"><b> How to customize your GitHub profile</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/tzucker02/How-to-customize-your-GitHub-profile?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/tzucker02/How-to-customize-your-GitHub-profile?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/tzucker02/How-to-customize-your-GitHub-profile?style=plastic"</td>
