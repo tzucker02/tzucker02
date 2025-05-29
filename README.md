@@ -222,7 +222,9 @@ Here are a few of my projects:
     <tr>
       <td cols=4>🍄<a href="https://public.tableau.com/app/profile/thomaszuckerscharff/vizzes" target="_blank"><b> My Tableau Public profile</b></a></td>
     </tr>   
-    </div>
+   <tr>
+     <td cols=4>🍄<a href="https://software.zuckerscharff.com/" target="_blank"><b> My Software Website</b></a></td>
+   </div>
   </tbody>
 </table>
 
