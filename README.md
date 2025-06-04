@@ -89,7 +89,7 @@ Hi! I'm Tom.  I am a data analyst with a background in data visualization, techn
 - VBA programming
 - dashboard development
 - data reporting
-- Python programming
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) programming
 
 ## Projects
 
@@ -250,7 +250,7 @@ This graphic tends to show older statistics. To see the latest click the gitclea
 -->
 ## More stats graphs
 ![Profile Summary Card](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tzucker02&theme=nord_dark)![Profile Card](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tzucker02&theme=nord_dark&utcOffset=-5)![Profile Summary Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tzucker02&theme=nord_dark)
-
+<br>
 <!--
 Analytics.pageView = async function (payload) {
   if (payload.uid === 1) {
@@ -259,6 +259,7 @@ Analytics.pageView = async function (payload) {
   local.pageViews += 1;
 -->
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=tzucker02&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Connect with me
 
