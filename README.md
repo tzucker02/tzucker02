@@ -58,7 +58,7 @@ The following is a page hits counter which does not seem to be working (I keep i
 -->
 
 
-# [![Hits](https://hits.sh/github.com/tzucker02/hits.svg?style=plastis&color=blue&view=today-total&extraCount=512&label=Profile_Views:Today/Total)](https://hits.sh/github.com/tzucker02/hits/)
+# [![Hits](https://hits.sh/github.com/tzucker02/hits.svg?style=plastis&color=blue&view=today-total&label=Profile_Views:Today/Total)](https://hits.sh/github.com/tzucker02/hits/)
 <!--
 *Important to Note: For the hit counter, since it only starts counting once you add it to your profile, I have included the number of visitors who had already visited my profile at the time I added this counter.*
 
