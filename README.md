@@ -220,6 +220,15 @@ Here are a few of my projects:
       <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/tzucker02/scriptfromAJZS"></td>
     </tr>
     <tr>
+      <td>✍<a href="https://github.com/tzucker02/PythonCode"><b> Ethhics Course</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/tzucker02/ethics_project?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/tzucker02/ethics_project?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/tzucker02/ethics_project?style=plastic"</td>
+      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/tzucker02/ethics_project?style=plastic&cacheSeconds=600"</td>
+      <td><a href="https://github.com/tzucker02/ethics_project/graphs/traffic"><img alt="Traffic" src="https://img.shields.io/badge/Traffic-brown?style=plastic&cacheSeconds=600"</a></td>
+      <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/tzucker02/ethics_project"></td>
+    </tr>
+    <tr>
       <td cols=4>🍄<a href="https://public.tableau.com/app/profile/thomaszuckerscharff/vizzes" target="_blank"><b> My Tableau Public profile</b></a></td>
     </tr>   
    <tr>
