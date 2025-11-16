@@ -220,7 +220,7 @@ Here are a few of my projects:
       <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/tzucker02/scriptfromAJZS"></td>
     </tr>
     <tr>
-      <td>✍<a href="https://github.com/tzucker02/ethics_project"><b> Ethhics Course</b></a></td>
+      <td>✍<a href="https://github.com/tzucker02/ethics_project/blob/main/README.md"><b> Ethhics Course</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/tzucker02/ethics_project?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/tzucker02/ethics_project?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/tzucker02/ethics_project?style=plastic"</td>
