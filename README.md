@@ -177,7 +177,7 @@ Here are a few of my projects:
       <td><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/tzucker02/Data-science-readings"></td>
     </tr>
     <tr>
-      <td>📚<a href="https://github.com/tzucker02/DataScienceBooks"><b> Data Science Books</b></a></td>
+      <td><img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/d371c0ce-c85a-4314-8d13-c27428d95c7e" /><a href="https://github.com/tzucker02/DataScienceBooks"><b> Data Science Books</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/tzucker02/DataScienceBooks?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/tzucker02/DataScienceBooks?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/tzucker02/DataScienceBooks?style=plastic"</td>
