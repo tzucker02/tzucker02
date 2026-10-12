@@ -57,8 +57,8 @@ The following is a page hits counter which does not seem to be working (I keep i
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftzucker02%2F&count_bg=%238E6CC9&title_bg=%23191717&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 -->
 
+# [![Hits](https://hits.sh/github.com/tzucker02/hits.svg?style=plastis&color=blue&view=today-total&label=Profile_Views:Today/Total)](https://hits.sh/github.com/tzucker02/hits/)  [![Sponsor Me](https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?logo=github)](https://github.com/sponsors/tzucker02) 
 
-# [![Hits](https://hits.sh/github.com/tzucker02/hits.svg?style=plastis&color=blue&view=today-total&label=Profile_Views:Today/Total)](https://hits.sh/github.com/tzucker02/hits/)
 <!--
 *Important to Note: For the hit counter, since it only starts counting once you add it to your profile, I have included the number of visitors who had already visited my profile at the time I added this counter.*
 
